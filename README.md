@@ -2,6 +2,10 @@
 
 This document outlines comprehensive test cases for the Weather App, focusing on boundary and edge cases. The app allows users to enter a city name, fetches coordinates via Nominatim API, and retrieves weather data via Open-Meteo API.
 
+To run:
+`npm install`
+`npm run dev`
+
 ## Test Case Table
 
 | Test Case ID | Description | Type | Preconditions | Steps | Expected Result | Actual Result | Pass/Fail |
